@@ -1,19 +1,19 @@
-Intro to R; DataFest 2018
+Intro to R, 2018 Fall
 ================
-John Little (@libjohn) & Joel Herndon (@herndonj)
-2018-03-27
+John Little
+2018-08-14
 
 README
 ======
 
 -   Code
 
-    -   <https://is.gd/datafest1>
-    -   <https://is.gd/datafest2>
+    -   <https://is.gd/2018r1>
+    -   <https://is.gd/2018r2>
 
--   Repo -- Datafest Intro2R repo
+-   Repo -- Intro2R repo
 
-    -   <https://is.gd/datafest_r>
+    -   <https://is.gd/intro2r_2018fall>
 
 This repository contains [supporting datasets and files](https://rfun.library.duke.edu/intro2r/) for our **Intro to R** workshop by the [Data & Visualization Services Department](http://library.duke.edu/data), Duke University Libraries. You can find more information about our future and past [workshops](http://library.duke.edu/data/news)
 

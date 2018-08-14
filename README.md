@@ -20,7 +20,7 @@ This repository contains [supporting datasets and files](https://rfun.library.du
 
 -   our *guide* can be found at our [Rfun site](https://rfun.library.duke.edu/intro2r/)
 
--   More on [R -- scroll down to R Resources](https://library.duke.edu/data/guides)
+-   More on [R -- (scroll down to R Resources)](https://library.duke.edu/data/guides)
 
 Outline
 -------

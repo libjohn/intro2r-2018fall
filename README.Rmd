@@ -17,7 +17,7 @@ README
 
     - https://is.gd/intro2r_2018fall
 
-This repository contains [supporting datasets and files](https://rfun.library.duke.edu/intro2r/) for our **Intro to R** workshop by the [Data & Visualization Services Department](http://library.duke.edu/data), Duke University Libraries. You can find more information about our future and past [workshops](http://library.duke.edu/data/news)
+This repository contains supporting datasets and files for our [*Intro to R*](https://rfun.library.duke.edu/intro2r/) workshop by the [Data & Visualization Services Department](http://library.duke.edu/data), Duke University Libraries. You can find more information about our future and past [workshops](http://library.duke.edu/data/news)
 
 -   our *guide* can be found at our [Rfun site](https://rfun.library.duke.edu/intro2r/)
 
@@ -28,8 +28,9 @@ Outline
 
 1. Download the zipped repository ![Download ZIP button](images/clone.png "Download ZIP button")
 1. Unzip/expand the zipped repo as a folder **in your Documents Directory**
+1. Launch RStudio
 1. File > New Project...
-1. Existing Directory (open your expanded)
+1. Existing Directory:  Browse to your unzipped copy in the documents directory
 
     1.  Literate Coding: brief explanation
         1.  New Code Chunk: *Ctrl+Alt+I*

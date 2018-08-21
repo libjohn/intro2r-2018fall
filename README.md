@@ -1,7 +1,7 @@
 Intro to R, 2018 Fall
 ================
 John Little
-2018-08-15
+2018-08-21
 
 <!-- Edit the README.Rmd.  Readme.md is auto genererated -->
 README
@@ -83,4 +83,4 @@ Outline
 License
 -------
 
-Shareable via Creative Commons: [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)<br> !["CC BY-NC"](images/by-nc.png)
+Shareable via Creative Commons: [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)<br> <img src="images/by-nc.png" alt="&quot;CC BY-NC&quot;" height="30" />

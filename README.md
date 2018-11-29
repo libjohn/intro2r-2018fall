@@ -1,9 +1,13 @@
 Intro to R, 2018 Fall
 ================
 John Little
-2018-08-21
+2018-11-29
 
 <!-- Edit the README.Rmd.  Readme.md is auto genererated -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-2018fall.git/master)
+
+.. image:: <https://mybinder.org/badge_logo.svg> :target: <https://mybinder.org/v2/gh/libjohn/intro2r-2018fall.git/master>
+
 README
 ======
 

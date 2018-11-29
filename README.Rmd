@@ -8,8 +8,6 @@ output: github_document
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-2018fall.git/master)
 
-.. image:: https://mybinder.org/badge_logo.svg :target: https://mybinder.org/v2/gh/libjohn/intro2r-2018fall.git/master
-
 README
 ======
 
